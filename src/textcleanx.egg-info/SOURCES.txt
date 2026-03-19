@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+src/textcleanx/__init__.py
+src/textcleanx/cleaner.py
+src/textcleanx.egg-info/PKG-INFO
+src/textcleanx.egg-info/SOURCES.txt
+src/textcleanx.egg-info/dependency_links.txt
+src/textcleanx.egg-info/top_level.txt
